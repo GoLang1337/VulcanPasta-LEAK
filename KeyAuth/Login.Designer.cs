@@ -340,7 +340,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(264, 42);
             this.label3.TabIndex = 43;
-            this.label3.Text = "Made by Zawe";
+            this.label3.Text = "Pasted with love <3";
             // 
             // siticoneRoundedButton1
             // 
